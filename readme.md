@@ -1,4 +1,4 @@
-[English Document](readme.md)[中文文档](readme_zh-cn.md)
+[English Document](readme.md)|[中文文档](readme_zh-cn.md)
 ☭
 ```
             i L G G L ;         
